@@ -144,9 +144,9 @@ export default class RNSwipeVerify extends Component {
           borderColor: borderColor,
           borderWidth: 2,
           borderRadius: borderRadius + 4,
-          padding: 2,
+          padding: 4,
           flex: 1,
-          height: buttonSize+4
+          height: buttonSize+12
         }}
       >
         <View
